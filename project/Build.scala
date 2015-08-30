@@ -21,7 +21,28 @@ object MyBuild extends Build {
     file("."),
     settings = buildSettings ++ Seq(
       run <<= run in Compile in core)
-  ) aggregate(macros, core)
+  ) aggregate(macrosmacros, macros, core)
+
+  lazy val macrosmacros: Project = Project(
+    "macrosmacros",
+    file("macrosmacros"),
+    settings = buildSettings ++ Seq(
+      libraryDependencies <+= (scalaVersion)("org.scala-lang" % "scala-reflect" % _),
+      libraryDependencies := {
+        CrossVersion.partialVersion(scalaVersion.value) match {
+          // if Scala 2.11+ is used, quasiquotes are available in the standard distribution
+          case Some((2, scalaMajor)) if scalaMajor >= 11 =>
+            libraryDependencies.value
+          // in Scala 2.10, quasiquotes are provided by macro paradise
+          case Some((2, 10)) =>
+            libraryDependencies.value ++ Seq(
+              compilerPlugin("org.scalamacros" % "paradise" % "2.1.0-M5" cross CrossVersion.full),
+              "org.scalamacros" %% "quasiquotes" % "2.1.0-M5" cross CrossVersion.binary)
+        }
+      }
+    )
+  )
+
 
   lazy val macros: Project = Project(
     "macros",
@@ -41,7 +62,7 @@ object MyBuild extends Build {
         }
       }
     )
-  )
+  ) dependsOn(macrosmacros)
 
   lazy val core: Project = Project(
     "core",

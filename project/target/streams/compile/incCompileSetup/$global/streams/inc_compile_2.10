@@ -1,0 +1,309 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+33 items
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$1.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$2.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$3.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$4.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$5.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$6.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$7.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$1.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$2.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$3.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$4.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$5.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1$$anonfun$apply$3.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1$$anonfun$apply$4.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$2.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$3.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$4.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$5.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$1$$anonfun$apply$1.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$1$$anonfun$apply$2.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$1.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$2.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$3.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$4.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$1.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$2.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$3.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$4.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$.class
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild.class
+binary dependencies:
+9 items
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.7.jar
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.7.jar
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.7.jar
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.7.jar
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.7.jar
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.7.jar
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> /Users/julianpeeters/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+33 items
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> BuildSettings
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> BuildSettings$
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> BuildSettings$$anonfun$1
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> BuildSettings$$anonfun$2
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> BuildSettings$$anonfun$3
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> BuildSettings$$anonfun$4
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> BuildSettings$$anonfun$5
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> BuildSettings$$anonfun$6
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> BuildSettings$$anonfun$7
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$core$1
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$core$2
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$core$3
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$core$4
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$core$5
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macros$1
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macros$1$$anonfun$apply$3
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macros$1$$anonfun$apply$4
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macros$2
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macros$3
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macros$4
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macros$5
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macrosmacros$1
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macrosmacros$1$$anonfun$apply$1
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macrosmacros$1$$anonfun$apply$2
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macrosmacros$2
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macrosmacros$3
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$macrosmacros$4
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$root$1
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$root$2
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$root$3
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild$$anonfun$root$4
+used names:
+115 items
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> $p1
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> $p2
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> %
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> %%
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> ++
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> ++=
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> +=
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> :=
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> <+=
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> <<=
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> <init>
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> ==
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> >=
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> AList
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> AnyRef
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> Append
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> Build
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> BuildSettings
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> Compile
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> ConfigKey
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> CrossVersion
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> Def
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> Defaults
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> FullInstance
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> InitializeInstance
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> InputWrapper
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> Keys
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> MyBuild
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> Project
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> Resolver
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> Seq
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> _1
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> _2
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> _3
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> aggregate
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> app
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> append1
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> appendN
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> appendSeq
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> apply
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> asInstanceOf
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> binary
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> buildSettings
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> canBuildFrom
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> classpathDependency
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> collection
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> compilerPlugin
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> configurationToKey
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> core
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> cross
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> crossScalaVersions
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> defaultSettings
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> dependsOn
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> file
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> full
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> in
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> isInstanceOf
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> libraryDependencies
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> macroValueI
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> macros
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> macrosmacros
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> ne
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> organization
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> package
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> partialVersion
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> projectToRef
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> pure
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> resolvers
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> root
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> run
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> sbt
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> scala
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> scalaMajor
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> scalaVersion
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> scalacOptions
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> set
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> sonatypeRepo
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> toGroupID
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> tuple3
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> value
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> version
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> wrapInit_☃☃
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$10
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$11
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$12
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$13
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$14
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$15
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$16
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$17
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$18
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$19
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$20
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$21
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$22
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$23
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$24
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$25
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$26
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$27
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$28
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$29
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$3
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$30
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$31
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$32
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$33
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$34
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$4
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$5
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$6
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$7
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$8
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> x$9
+product stamps:
+33 items
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$1.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$2.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$3.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$4.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$5.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$6.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$7.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/BuildSettings.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$1.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$2.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$3.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$4.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$5.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1$$anonfun$apply$3.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1$$anonfun$apply$4.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$2.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$3.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$4.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$5.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$1$$anonfun$apply$1.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$1$$anonfun$apply$2.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$1.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$2.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$3.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macrosmacros$4.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$1.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$2.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$3.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$4.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild$.class -> lastModified(1440912325000)
+/Users/julianpeeters/Dropbox/sbt-example/project/target/scala-2.10/sbt-0.13/classes/MyBuild.class -> lastModified(1440912325000)
+source stamps:
+1 items
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> hash(9bb87024d0c081387a70869068bd2a785c0b1612)
+binary stamps:
+9 items
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar -> lastModified(1381430168000)
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.7.jar -> lastModified(1439693900000)
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.7.jar -> lastModified(1430155722000)
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.7.jar -> lastModified(1430154346000)
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.7.jar -> lastModified(1430156194000)
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.7.jar -> lastModified(1430152707000)
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar -> lastModified(1439693806000)
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.7.jar -> lastModified(1439693873000)
+/Users/julianpeeters/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+9 items
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar -> java.lang.Object
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.7.jar -> sbt.appmacro.Instance$
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.7.jar -> sbt.Init
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.7.jar -> sbt.ModuleID
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.7.jar -> sbt.Def$
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.7.jar -> sbt.Build
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.7.jar -> sbt.package$
+/Users/julianpeeters/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.7.jar -> sbt.Task
+/Users/julianpeeters/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.package$
+internal apis:
+1 items
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBf9a9tAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cE1ZYnp0AAZub3RpZnlzcQB+AAzcVnmOdAAEd2FpdHNxAH4ADKE+wH10AA0kYXNJbnN0YW5jZU9mc3EAfgAMPeom9HQADGJ1aWxkTG9hZGVyc3NxAH4ADFp51QV0AARyb290c3EAfgAMxowniXQABmVxdWFsc3NxAH4ADKC4jqN0AAxhc0luc3RhbmNlT2ZzcQB+AAx/3Ho5dAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMdfjw23QADHN5bmNocm9uaXplZHNxAH4ADI5EL6F0AA0kaXNJbnN0YW5jZU9mc3EAfgAMSVTzmnQACW5vdGlmeUFsbHNxAH4ADKBEEzZ0AAtyb290UHJvamVjdHNxAH4ADNA6tmx0AAxpc0luc3RhbmNlT2ZzcQB+AAyBqT1xdAAMbWFjcm9zbWFjcm9zc3EAfgAM496UInQAB015QnVpbGRzcQB+AAytvkOOdAAGbWFjcm9zc3EAfgAMeORHTHQAAj09c3EAfgAMfbo7EnQABWNsb25lc3EAfgAMVG2cLXQACHRvU3RyaW5nc3EAfgAMvE3qd3QAAiE9c3EAfgAMtS9uEnQACHByb2plY3Rzc3EAfgAMeezobnQACGdldENsYXNzc3EAfgAM+6dT6nQABGNvcmVzcQB+AAzLrci5dAANQnVpbGRTZXR0aW5nc3NxAH4ADEHA3VR0AAJuZXNxAH4ADBvZidV0AA1idWlsZFNldHRpbmdzc3EAfgAMLDJ6Q3QAAmVxc3EAfgAMvO9hhnQACHNldHRpbmdzc3EAfgAMFfYaT3QAAiMjc3EAfgAMJFEiX3QACGZpbmFsaXplc3EAfgAMwXQsJnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgA9dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBsAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHNzcQB+AGwBdXEAfgBQAAAAAHBzcQB+AGwBdXEAfgBQAAAAAHBzcQB+AGwBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBydAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgByc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCLdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCMc3EAfgB/dAADQW55c3EAfgCDc3EAfgCGdXEAfgCJAAAAAnNxAH4Ai3QABXNjYWxhcQB+AJJwcHNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgBxAH4AK3VxAH4AZAAAAABxAH4AaHVxAH4AagAAAABzcQB+AGwBcQB+AHRwc3EAfgBsAXNxAH4AdnNxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cQB+AH0AAAADc3EAfgB/dAAFQnVpbGRzcQB+AINzcQB+AIZ1cQB+AIkAAAACc3EAfgCLdAADc2J0cQB+AJJzcQB+AH9xAH4AgnNxAH4Ag3NxAH4AhnVxAH4AiQAAAANzcQB+AItxAH4AjnNxAH4Ai3EAfgCQcQB+AJJzcQB+AH9xAH4AlHNxAH4Ag3NxAH4AhnVxAH4AiQAAAAJzcQB+AItxAH4AmXEAfgCScHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT30RK4Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTL1VzZXJzL2p1bGlhbnBlZXRlcnMvRHJvcGJveC9zYnQtZXhhbXBsZS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSbuHAk0MCBOHpwhpBovSp4XAsWEg==
+external apis:
+0 items
+source infos:
+1 items
+/Users/julianpeeters/Dropbox/sbt-example/project/Build.scala -> 
+AAAAAAAAAAEAAAEAAAAFADYgIHZhbCBidWlsZFNldHRpbmdzID0gRGVmYXVsdHMuZGVmYXVsdFNldHRpbmdzICsrIFNlcSgBAAAAUgEAAAAfAQAfICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAPC9Vc2Vycy9qdWxpYW5wZWV0ZXJzL0Ryb3Bib3gvc2J0LWV4YW1wbGUvcHJvamVjdC9CdWlsZC5zY2FsYQEAPC9Vc2Vycy9qdWxpYW5wZWV0ZXJzL0Ryb3Bib3gvc2J0LWV4YW1wbGUvcHJvamVjdC9CdWlsZC5zY2FsYQCIdmFsdWUgZGVmYXVsdFNldHRpbmdzIGluIG9iamVjdCBEZWZhdWx0cyBpcyBkZXByZWNhdGVkOiBEZWZhdWx0IHNldHRpbmdzIHNwbGl0IGludG8gY29yZURlZmF1bHRTZXR0aW5ncyBhbmQgSXZ5TW9kdWxlL0p2bU1vZHVsZSBwbHVnaW5zLgE=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3wYtMJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9qdWxpYW5wZWV0ZXJzL0Ryb3Bib3gvc2J0LWV4YW1wbGUvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT30M9uR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9qdWxpYW5wZWV0ZXJzL0Ryb3Bib3gvc2J0LWV4YW1wbGUvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT30RK4Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9qdWxpYW5wZWV0ZXJzL0Ryb3Bib3gvc2J0LWV4YW1wbGUvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
