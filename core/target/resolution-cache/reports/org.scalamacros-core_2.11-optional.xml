@@ -4,10 +4,10 @@
 	<info
 		organisation="org.scalamacros"
 		module="core_2.11"
-		revision="1.0.0"
+		revision="1.0.4-SNAPSHOT"
 		conf="optional"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20150829222603"/>
+		date="20150901032046"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>

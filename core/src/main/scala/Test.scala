@@ -1,3 +1,10 @@
+package b
+
+import macros.Macro
+
 object Test extends App {
-  Macros.hello
+
+  Macro.hello
+  Macro.goodbye
+
 }
