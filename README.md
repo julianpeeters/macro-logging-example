@@ -1,9 +1,18 @@
-### An example SBT project which uses macros (Scala 2.10/2.11, SBT 0.13)
+### Testing if I can control the log level of a logger that lives in a macro
 
-*In order to enable quasiquotes in Scala 2.10.x, use the macro paradise compiler plugin as outlined in  [https://github.com/scalamacros/sbt-example-paradise](https://github.com/scalamacros/sbt-example-paradise)*.
 
-To verify that everything works fine, do `sbt run`.
+Looks like "no". 
 
-Note that currently SBT doesn't support recompilation of macro clients if the dependencies of the macro implementation have changed - macro clients are only recompiled when the macro definition itself is:  https://github.com/sbt/sbt/issues/399.
 
-Huge thanks to Paul Butcher (https://github.com/paulbutcher/ScalaMock/blob/typemacros/project/Build.scala) and Adam Warski (https://github.com/adamw/scala-macro-debug) whose SBT projects I used as prototypes for this one.
+This project has two sub projects:
+
+#### Macros:
+`macros` is a project that provides an object that has two methods. One method calls a macro, the other calls println. Both methods have logger calls.
+
+`core` is a project that uses the macros object for testing locally (within the same project).
+
+Running `sbt run` shows that both the macro logger call and the regular logger call work correctly, and both can be silenced by changing the log level of `log back.xml` in `src/main/resources`
+
+However, if the macros project is used as a dependency, say by `sbt publish-local`, and a new project is set up use the exact same calls used in `core`, then only the regular logger call can be silenced. The logger in the macro continues to log messages as if it can’t see the client’s `logback.xml`.
+
+How can I get the macro logger be quiet?
